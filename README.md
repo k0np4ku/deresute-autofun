@@ -1,4 +1,4 @@
-# bandori-autofun
+# deresute-autofun
 ## Overview
 Autopatcher for [THE IDOLM@STER CINDERELLA GIRLS: STARLIGHT STAGE](https://play.google.com/store/apps/details?id=jp.co.bandainamcoent.BNEI0242&hl=), works for all version/region. The provided tool will automatically unpack the APK, then insert smali files and code which required to load the provided native library.
 
