@@ -19,6 +19,16 @@ The provided tool and native library will works even when the game is officially
 ## Download
 You can download it on [Releases](https://github.com/k0np4ku/deresute-autofun/releases) page.
 
+## Base APK
+Follow the following steps if you are having a difficulty with retrieving Armv7 version of the original apk. This requires older version of Android emulator, such as **LDPlayer 3.82** or older. You can get the said version of LDPlayer from [here](https://encdn.ldmnq.com/download/package/LDPlayer_3.82.exe) or [here](https://momo-app-player.en.uptodown.com/windows/download/2180580).
+
+- Download and open QooApp
+- Search and download "**THE IDOLM@STER CINDERELLA GIRLS: STARLIGHT STAGE**"
+- **Don't install it once the download is finished**, instead open the file manager and go to **Android/data/com.qooapp.qoohelper/files/Download/game/jp.co.bandainamcoent.BNEI0242**
+- There you can find the base apk, then copy the said file to the shared folder
+
+**P.S**: Don't use the emulator for production or play games since it's a bit slower than the newer version. Use it only if you need to retrieve Armv7 version of the apk you want.
+
 ## Usage
 ```
 $ auto <apk-file>
