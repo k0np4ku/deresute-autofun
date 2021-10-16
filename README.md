@@ -37,7 +37,7 @@ autoplay=true
 noDamage=true
 
 [autoplay]
-# chance of perfect combo (set to 100 if you have fun, I guess)
+# chance of perfect combo (set to 100 if you hate fun, I guess)
 perfectChance=98
 
 # chance of miss
